@@ -1,3 +1,4 @@
+![image](https://github.com/GabrielFMontoni/alura-midi/assets/121250213/c4834025-a19d-40d5-bbb6-14720d779d96)
 
 <div style="display: flex;" align="center"><br>
 <h1>Alura Midi</h1>
